@@ -1,13 +1,31 @@
 mm/dd: movie
 
-Missing: Nightcrawler, How to Train Your Dragon 2 (Same night, June? May? 2015)
+03/05: Mute (2018)
+
+02/26: Annihilation
+02/18: Black Panther, When We First Met
+02/04: The Cloverfield Paradox
+
+01/29: I, Tonya
+01/12: Bright
+01/11: The Disaster Artist
+01/07: The Hitman's Bodyguard, The Intern (2015), American Made
+
+12/29: Logan Lucky, War of the Planet of the Apes
+12/23: Star Wars: The Last Jedi
+
+11/23: Ant Man
+11/19: Justice League
+11/14: The World's End
+11/11: Thor: Ragnarok
+11/08: Second Sight (1989)
 
 10/31: The VVitch
 10/29: The Foreigner
 10/18: Hot Fuzz
 10/15: I Love You Man
 10/11: Shaun of the Dead
-10/09: Blade Runner 2049
+10/08: Blade Runner 2049
 10/03: War Machine
 10/02: Assassin's Creed
 10/01: Anthropoid, It (2017)
@@ -272,6 +290,7 @@ Missing: Nightcrawler, How to Train Your Dragon 2 (Same night, June? May? 2015)
 05/04: Our Idiot Brother
 
 04/26: Elysium
+04/17: How to Train Your Dragon 2, Nightcrawler
 04/12: Rise of the Planet of the Apes
 
 03/30: The Great Gatsby, Oblivion
