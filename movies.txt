@@ -1,5 +1,12 @@
 mm/dd: movie
 
+04/30: Ghost Stories
+04/25: Rampage (2018)
+04/14: Isle of Dogs, A Quiet Place
+04/07: Ready Player One
+
+03/29: Game Over, Man!
+03/24: Dante's Peak
 03/05: Mute (2018)
 
 02/26: Annihilation
@@ -10,6 +17,8 @@ mm/dd: movie
 01/12: Bright
 01/11: The Disaster Artist
 01/07: The Hitman's Bodyguard, The Intern (2015), American Made
+
+---- 2018 ----
 
 12/29: Logan Lucky, War of the Planet of the Apes
 12/23: Star Wars: The Last Jedi
