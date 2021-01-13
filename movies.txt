@@ -1,5 +1,15 @@
 mm/dd: movie
 
+08/29: Captain America: Civil War, Black Panther
+08/27: Tinker Tailor Soldier Spy
+08/25: The Dark Knight
+08/24: Guardians of the Galaxy Vol. 2
+08/22: Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
+08/19: Star Wars: Episode III - Revenge of the Sith
+08/12: Star Wars: Episode II - Attack of the Clones
+08/07: Guardians of the Galaxy
+08/06: Star Wars: Episode I - The Phantom Menace
+
 07/19: The Old Guard
 07/18: Wonder Woman
 07/16: Holes
